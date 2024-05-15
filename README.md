@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project implements three popular association rule mining algorithms: Apriori, PCY (Park-Chen-Yu), and Page Rank algorithm. Additionally, it sets up a streaming pipeline for real-time analysis using Apache Kafka, along with database integration using MongoDB.
+This project implements three popular association rule mining algorithms: Apriori, PCY (Park-Chen-Yu), and Page Rank algorithm. Additionally, it sets up a streaming pipeline for real-time analysis using Apache Kafka.
 
 
 **Dependencies**
@@ -11,7 +11,6 @@ Python
 
 Apache Kafka
 
-MongoDB
 
 Kafka-Python library
 
